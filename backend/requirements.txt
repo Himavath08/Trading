@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+ta
+requests
+python-dotenv
+google-generativeai
+websockets
+redis
+celery
+pydantic
+python-multipart
